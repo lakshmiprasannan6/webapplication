@@ -1,0 +1,42 @@
+{"songs":
+ [{
+    "id":1,
+    "play": "lovin On Me",
+    "year": 2013,
+    "Track": "2 min 18 sec",
+    "Artist": "Jack Harlow",
+    "likes": "2millions views in a month"
+  
+  },
+  {
+    "id":2,
+    "play": "greedy",
+    "year": 2015,
+    "Track": "3 min 18 sec",
+    "Artist": "Tate Mcrae",
+    "likes": "1.5millions views in a month"
+  },
+  {
+    "id":3,
+    "play": "Agora Hills",
+    "year": 2010,
+    "Track": "2 min 10 sec",
+    "Artist": "Doja Cat",
+    "likes": "1millions views in a month"
+  },
+  {
+    "id":4,
+   "play": "Scarlet",
+    "year": 2015,
+    "Track": "2 min 18 sec",
+    "Artist": "Dua Lipa",
+    "likes": "1.5lakhs views in a month"
+  },
+  {
+    "id":5,
+   "play": "Houdini",
+    "year": 2017,
+    "Track": "1 min 18 sec",
+    "Artist": "Dua Lipa",
+    "likes": "2millions views in a month"
+  }]}
